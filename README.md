@@ -11,7 +11,7 @@
 </td>
 <td valign="middle" align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=Hello+World!+🌍;I'm+Asmi+👋;CS+Undergrad+%7C+Builder+%7C+Civic+Tech;Building+CivicSarthi+for+Bharat+🇮🇳)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=Hello+World!+🌍;I'm+Asmi+👋;CS+Undergrad+%7C+Builder)](https://git.io/typing-svg)
 
 </td>
 </tr>
@@ -62,51 +62,24 @@ asmi.isCurrentlyBuilding("CivicSarthi — municipal issue reporting platform");
 
 ---
 
-### 🚀 Featured Project
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                    CivicSarthi                           ║
-║           नागरिक समस्या · तेज़ समाधान                    ║
-╠══════════════════════════════════════════════════════════╣
-║  A civic issue reporting platform for Indian cities      ║
-║  targeting municipal operations in Indore, MP            ║
-╠══════════════════════════════════════════════════════════╣
-║  Citizens  →  Report issues via mobile app               ║
-║  Workers   →  Manage field tasks with GPS               ║
-║  Admins    →  Oversee via React web dashboard           ║
-╠══════════════════════════════════════════════════════════╣
-║  🔐 Aadhaar/DigiLocker login                             ║
-║  📍 GPS-based ward detection                             ║
-║  🗺️  Heatmap analytics                                  ║
-║  🤖 AI-assisted photo categorization                     ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=FF6B35&text_color=C9D1D9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=C9D1D9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=asmi1074&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=FF6B35&text_color=C9D1D9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmi1074&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=C9D1D9" />
 
 <br/><br/>
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&hide_border=true)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=asmi1074&theme=transparent&hide_border=true)
 
 <br/>
 
-![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/YOUR_USERNAME?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink)
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/asmi1074?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink)
 
 <br/>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=asmi1074&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
 
 </div>
 
