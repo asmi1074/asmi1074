@@ -41,11 +41,14 @@ asmi.isCurrentlyBuilding("CivicSarthi — municipal issue reporting platform");
 
 **Languages & Frameworks**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" title="Python" />
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" title="React" />
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" title="JavaScript" />
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80" title="MySQL" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="32" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="68" height="68" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="68" height="68" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="68" height="68" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="68" height="68" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="68" height="68" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="68" height="68" />
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="68" title="React" />
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="68" title="Spring Boot" />
 
 <br/><br/>
 
@@ -98,9 +101,9 @@ asmi.isCurrentlyBuilding("CivicSarthi — municipal issue reporting platform");
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmi1074)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/asmi1074)
 
 </div>
 
