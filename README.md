@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:4F46E5,100:0D9488&height=120&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D94496,50:F47DBB,100:FFB6D5&height=120&section=header&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -110,5 +110,5 @@ asmi.isCurrentlyBuilding("CivicSarthi — municipal issue reporting platform");
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,50:4F46E5,100:FF6B35&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D5,50:F47DBB,100:D94496&height=80&section=footer" width="100%" />
 </div>
