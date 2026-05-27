@@ -69,8 +69,8 @@ asmi.isCurrentlyBuilding("CivicSarthi — municipal issue reporting platform");
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=asmi1074&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=FF6B35&text_color=C9D1D9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmi1074&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=C9D1D9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=asmi1074&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=D94496&icon_color=F47DBB&text_color=C9D1D9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmi1074&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=D94496&text_color=C9D1D9" />
 
 <br/><br/>
 
