@@ -80,6 +80,8 @@ asmi.isCurrentlyBuilding("CivicSarthi — municipal issue reporting platform");
 
 </div>
 
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
