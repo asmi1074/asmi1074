@@ -88,7 +88,7 @@ asmi.isCurrentlyBuilding("CivicSarthi — municipal issue reporting platform");
 
 <br/><br/>
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=asmi1074&theme=transparent&hide_border=true)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=asmi1074&theme=transparent&hide_border=true&ring=D94496&fire=F47DBB&currStreakLabel=D94496&sideLabels=F47DBB&currStreakNum=FF94CC&sideNums=FF94CC&dates=FFB6D5)
 
 <br/>
 
