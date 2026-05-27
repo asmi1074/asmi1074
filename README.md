@@ -65,6 +65,21 @@ asmi.isCurrentlyBuilding("CivicSarthi — municipal issue reporting platform");
 
 ---
 
+### 🏆 Achievements & Hackathons
+
+<div align="center">
+
+| | Event | Result | Scale |
+|--|-------|--------|-------|
+| 🚀 | **Smart India Hackathon 2025** — Grand Finale, Dec 8–9 | **Finalist** | National · Govt. of India |
+| ⭐ | **India AI Impact Buildathon** — GUVI x HCL | **Top 2% National Finalist** | 40,000+ participants |
+| 🔨 | **HackChrono** — Technicia'25, Chandigarh University | **Participant** | 48-hour national hackathon |
+| 💛 | **AI for Impact Hackathon** — IEEE SB AITR, May 2025 | **Certificate of Appreciation** | Team: Bit Rebels |
+| 🌐 | **Indore Level Hackathon 2026** — DAVV SCSIT | **Participant** | Team: Bit Rebels |
+| 🎨 | **Tech-o-tsav 2024** — AITR National Tech Festival | **Participant** | Web designing competition |
+
+</div>
+
 ### 📊 GitHub Stats
 
 <div align="center">
