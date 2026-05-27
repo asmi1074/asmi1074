@@ -96,7 +96,7 @@ asmi.isCurrentlyBuilding("CivicSarthi — municipal issue reporting platform");
 
 <br/>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=asmi1074&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=asmi1074&radius=16&bg_color=0D1117&color=F47DBB&line=D94496&point=FF94CC&area_color=D94496&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=D94496)
 
 </div>
 
